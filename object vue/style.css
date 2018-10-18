@@ -1,0 +1,62 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(98, 139, 133);
+}
+
+#container {
+  width: 600px;
+  height: 100%;
+  background-color: white;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#app {
+  padding: 50px;
+  text-align: center;
+}
+
+#appContent {
+  padding: 20px;
+}
+
+#appSeen {
+  width: 150px;
+  height: 50px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px dotted black;
+}
+
+#appFor {
+  width: 100px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#appClick {
+  width: 100px;
+  height: 100%;
+  font-size: 24px;
+  border: 1px dotted black;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.appClickView {
+  min-height: 100px;
+}
+
+#appModel {
+  font-size: 48px;
+  width: 150px;
+  height: 100%;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
